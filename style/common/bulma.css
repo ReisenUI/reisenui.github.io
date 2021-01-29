@@ -11654,3 +11654,9 @@ span.number{
   margin: 0px;
   display: inline;
 }
+
+figure table{
+  display: block;
+  overflow: auto;
+  width: 80%;
+}
